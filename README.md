@@ -4,8 +4,7 @@ Develop Python code for cleaning and preparing data for analysis - including han
 
 Folder | Description
 ---|---
-[EDA](https://github.com/Nizamdeen-Mohamed/Data-analysis-and-linear-model-creation-Project/blob/main/Exploratory_data_analysis.ipynb) | Codes for performing *exploratory data analysis* (so as to gain *data understanding*) of the dataset.
-[Data wrangling](https://github.com/Nizamdeen-Mohamed/Data-analysis-and-linear-model-creation-Project/blob/main/Review-Data-Wrangling.ipynb) | Codes for performing *Data wrangling* (so as to gain *decision-making*) of the dataset.
-[Model development](https://github.com/Nizamdeen-Mohamed/Data-analysis-and-linear-model-creation-Project/blob/main/Review-Model-Development.ipynb) | Codes for  *Build and evaluate regression models* (and use them for prediction and decision making*)from the dataset.
-[Model Evaluation and Refinement](https://github.com/Nizamdeen-Mohamed/Data-analysis-and-linear-model-creation-Project/blob/main/Model_Evaluation_and_Refinement_cars.ipynb) | Manipulate data using dataframes, summarize data, understand data distribution, perform correlation and create data pipelines.
-[Final project](https://github.com/Nizamdeen-Mohamed/Data-analysis-and-linear-model-creation-Project/blob/main/House_Sales_in_King_Count_USA.ipynb) | This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
+[EDA](https://github.com/Nizamdeen-Mohamed/Data-analysis-and-linear-model-creation-Project/blob/main/Exploratory_data_analysis-cars.ipynb) | Codes for performing *exploratory data analysis* (so as to gain *data understanding*) of the dataset.
+[Data wrangling](https://github.com/Nizamdeen-Mohamed/Data-analysis-and-linear-model-creation-Project/blob/main/Data-Wrangling%20-%20cars.ipynb) | Codes for performing *Data wrangling* (so as to gain *decision-making*) of the dataset.
+[Model development](https://github.com/Nizamdeen-Mohamed/Data-analysis-and-linear-model-creation-Project/blob/main/Model-Development%20-%20cars.ipynb) | Codes for  *Build and evaluate regression models* (and use them for prediction and decision making*)from the dataset.
+[Model Evaluation and Refinement](https://github.com/Nizamdeen-Mohamed/Data-analysis-and-linear-model-creation-Project/blob/main/Model_Evaluation_and_Refinement%20-%20cars.ipynb) | Manipulate data using dataframes, summarize data, understand data distribution, perform correlation and create data pipelines.
